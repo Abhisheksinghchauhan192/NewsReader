@@ -85,6 +85,7 @@ The latest news articles will be displayed directly in your terminal!
 ## 📦 Dependencies
 
 - `requests`: To handle HTTP requests to the NewsAPI.
+- `gTTs`: To speech function.
 
 
 ## 🙌 Contributions
